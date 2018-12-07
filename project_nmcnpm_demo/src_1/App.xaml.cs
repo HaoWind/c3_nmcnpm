@@ -13,5 +13,6 @@ namespace src_1
     /// </summary>
     public partial class App : Application
     {
+        //Phùng Trí Cường nè!
     }
 }
